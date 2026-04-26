@@ -1,8 +1,8 @@
 class Lasso < Formula
   desc "Harness-agnostic observational memory and linting CLI for coding agents"
   homepage "https://github.com/justEstif/lasso"
-  url "https://registry.npmjs.org/@justestif/lasso/-/lasso-0.1.4.tgz"
-  sha256 "3dad532d7afdde6fe89f07173a15deec401f4ef742ddd0ee74412bea151b5d26"
+  url "https://registry.npmjs.org/@justestif/lasso/-/lasso-0.1.6.tgz"
+  sha256 "b1b23ec08109a03dca8f13dc789d4e735d45184a903e7eac47ca09aeef918e40"
   license "MIT"
 
   depends_on "oven-sh/bun/bun"
