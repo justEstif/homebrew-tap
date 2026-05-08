@@ -1,8 +1,8 @@
 class Pk < Formula
   desc "Project knowledge — structured intake, search, and recall"
   homepage "https://github.com/justEstif/pk"
-  url "https://registry.npmjs.org/@justestif/pk/-/pk-0.2.2.tgz"
-  sha256 "90196199d19d56090602aebe64689f7bc611a3d8085b497eb8489eb7bcf61116"
+  url "https://registry.npmjs.org/@justestif/pk/-/pk-0.3.0.tgz"
+  sha256 "45d82f13b17caecbe976ca4e66e204dfdadd439347dfc07d42ed2c78fa3d7a58"
   license "MIT"
 
   depends_on "oven-sh/bun/bun"
